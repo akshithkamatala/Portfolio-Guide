@@ -6,8 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [Power BI](#powerbi) 
 
 # Data Engineering
 
@@ -42,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Tableau
+# Power BI
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
