@@ -21,7 +21,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Python
 
 | Project Link | Project Description | Libraries |    
-|---|---|---|---|
+|---|---|---|
 | [sales-receivables-prediction](https://github.com/akshithkamatala/sales-receivables-prediction) | Predicting bad debt provisions using regression models on financial receivables data (31,000+ companies). | pandas, matplotlib, seaborn, numpy, statsmodels, sklearn |
 
 ***
